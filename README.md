@@ -1,6 +1,5 @@
-# Deployed link: https://vercel.com/new/evans-kabirus-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=pro-c2rmd1vr9-evans-kabirus-projects.vercel.app&projectName=pro-get&s=https%3A%2F%2Fgithub.com%2FEvansKabiru%2FProject-Phase-4%2Ftree%2Fmain%2Ffrontend&gitOrgLimit=&hasTrialAvailable=&totalProjects=
-# Video Recording: https://youtu.be/zxRlOBD5GmE
 
+https://vercel.com/ceriosharons-projects/pro-get-platform/7upNpqK9fHQeJPZ96cVeHdsTwwMR
 
 # PRO-GET
 
@@ -29,11 +28,7 @@ PRO-GET is an app designed to connect users with professionals such as plumbers,
 
 ### Backend Setup (Flask)
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/EvansKabiru/Project-Phase-4/tree/main/backend
-### Frontend Setup(React)
+1.frontend Setup(React)
 1. Clone the repository:
    ```bash
 https://github.com/EvansKabiru/Project-Phase-4/tree/main/frontend
