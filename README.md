@@ -29,6 +29,4 @@ PRO-GET is an app designed to connect users with professionals such as plumbers,
 ### Backend Setup (Flask)
 
 1.frontend Setup(React)
-1. Clone the repository:
-   ```bash
-https://github.com/EvansKabiru/Project-Phase-4/tree/main/frontend
+
